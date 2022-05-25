@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="in.co.rays.proj4.model.StudentModel"/>
+<fullyQualifiedTypeName name="in.co.rays.proj4.model.CollegeModel"/>
+<fullyQualifiedTypeName name="in.co.rays.proj4.model.SubjectModel"/>
+<fullyQualifiedTypeName name="in.co.rays.proj4.model.CourseModel"/>
+<fullyQualifiedTypeName name="in.co.rays.proj4.util.DataUtility"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="in.co.rays.proj4.bean.SubjectBean"/>
+</qualifiedTypeNameHistroy>
